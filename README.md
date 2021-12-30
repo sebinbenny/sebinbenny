@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebinbenny
-- 👀 I’m interested in ... Python, JS, React, SQL, Informatica PC, Web development, C and C++
-- 🌱 I’m currently learning ... Python Tkinter and JS
+- 👀 I’m interested in ... Python, SQL, Informatica PC, ETL, Tableau, Data Science and Visualization
+- 🌱 I’m currently learning ... Python Data Science, Tableau, Streamsets
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail me @ sebinbenny.95@gmail.com
 
